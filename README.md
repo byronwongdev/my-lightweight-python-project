@@ -1,7 +1,7 @@
 # my-lightweight-python-project
 Here is some of my super lightweight python project! 
 
-There are serveral mini projects in the seperate folders which covered the following topics:
+There are several mini projects in the separate folders which covered the following topics:
 -classic algorithm
 -finance
 -maths
