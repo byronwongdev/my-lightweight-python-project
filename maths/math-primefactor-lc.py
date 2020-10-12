@@ -4,7 +4,7 @@ Have the user enter a number and find all Prime Factors (if there are any) and d
 
 
 ## welcome message
-print("Welcome to the Prime factor finder created by LC!")
+print("Welcome to the Prime factor finder!")
 
 program_play = True
 
